@@ -1,0 +1,14 @@
+г енисысг еимаи тгс лояжгс у = а + б * в
+опоу а = 
+-0,46
+йаи б = 
+1,984
+
+
+----------сумтекестес---------
+Coefficient of determination (R Square): 
+0,999821181825571
+Coefficient of correlation: (R)
+0,999910586915436
+Standard error of estimate: 
+0,242212028327517

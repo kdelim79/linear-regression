@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/07/12 20:44:20.218.dfm,C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Linear Regression\LinearMain.dfm=C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2009/07/12 20:44:20.218.h,C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Linear Regression\LinearMain.h=C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2009/07/12 20:44:20.218.cpp,C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Linear Regression\LinearMain.cpp=C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2009/07/12 20:44:44.843.cbproj,C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Linear Regression\LinearRegression.cbproj=C:\Documents and Settings\Kostas\Τα έγγραφά μου\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

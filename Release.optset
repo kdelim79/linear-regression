@@ -1,0 +1,12 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Defines>NDEBUG;$(Defines)</Defines>
+    <IntermediateOutputDir>Release</IntermediateOutputDir>
+    <ILINK_LibraryPath>$(BDS)\lib\release;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+    <TASM_Debugging>None</TASM_Debugging>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>CPlusPlusBuilder.Personality</Borland.Personality>
+    <BorlandProject>  <BorlandProject xmlns=""> <CPlusPlusBuilder.Personality> </CPlusPlusBuilder.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+</Project>
